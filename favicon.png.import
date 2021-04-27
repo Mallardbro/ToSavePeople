@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/favicon.png-23806ee5429304b357d1db214177ae0c.stex"
+path="res://.import/favicon.png-ba8d47e60d2fa53ebfa7c3f104924c25.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Patch3HTML/favicon.png"
-dest_files=[ "res://.import/favicon.png-23806ee5429304b357d1db214177ae0c.stex" ]
+source_file="res://ExportFinalHealthbug/favicon.png"
+dest_files=[ "res://.import/favicon.png-ba8d47e60d2fa53ebfa7c3f104924c25.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ToSavePeopleFullscreen.png-0dd3a3036a5ed4a0c8a9961cbe430000.stex"
+path="res://.import/ToSavePeopleFullscreen.png-9ec37b8d6fcd19800b53559c8e1282c7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Patch3HTML/ToSavePeopleFullscreen.png"
-dest_files=[ "res://.import/ToSavePeopleFullscreen.png-0dd3a3036a5ed4a0c8a9961cbe430000.stex" ]
+source_file="res://ExportFinalHealthbug/ToSavePeopleFullscreen.png"
+dest_files=[ "res://.import/ToSavePeopleFullscreen.png-9ec37b8d6fcd19800b53559c8e1282c7.stex" ]
 
 [params]
 
